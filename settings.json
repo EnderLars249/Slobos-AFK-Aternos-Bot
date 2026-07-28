@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bobob1.aternos.me:32624",
+    "ip": "bobob1.aternos.me",
     "port": 32624,
     "version": "",
     "try-creative": false
